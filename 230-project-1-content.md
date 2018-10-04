@@ -46,5 +46,7 @@ My name is Annie Ge and I'm a sophomore at RIT's Game Design and Development Pro
 
 # Documentation
 [Chamametchi.gif](https://vignette.wikia.nocookie.net/tamagotchi/images/4/4e/Chamametchi_spinning.gif/revision/latest?cb=20150331135740)
+
 [Mimitchi.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjm4C3EArNYrh0Y4is-XzMBarAnqjyUeXPejjOgHwnzCNy0I)
+
 [Pink Background](https://cdn3.volusion.com/tyzky.ynqff/v/vspfiles/photos/175-2.jpg)
