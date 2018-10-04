@@ -31,9 +31,9 @@ This game is meant to be played by everyone of all ages so no tutorial is necess
 ## Screenshots
 
 ### Main Screen
-
+![alt text](https://imgur.com/LRbGd2c.png "Screenshot2")
 ### Mini-Game
-
+![alt text](https://imgur.com/Q7hpXFO.png "Screenshot1")
 ## About the Developer
 
 My name is Annie Ge and I'm a sophomore at RIT's Game Design and Development Program. I'm a fan of game design and incorporating them with programming. 
