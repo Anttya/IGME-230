@@ -1,3 +1,9 @@
+# Index
+Have you ever wanted to take care of an online pet but don't know the perfect app to use? Well let me introduce you to Sukogatchi! The web's best online pet caring game out there. Keep your pet happy by playing fun mini-games and feeding it delicious food. Your Sukogatchi will love you!
+
+### Play Today!
+
+# Proposal
 # Sukogatchi
 Play, feed, and raise your Sukogatchi!
 This casual game lets you take care of your own personal pet.<br>Play on your computer today!
@@ -37,3 +43,8 @@ This game is meant to be played by everyone of all ages so no tutorial is necess
 ## About the Developer
 
 My name is Annie Ge and I'm a sophomore at RIT's Game Design and Development Program. I'm a fan of game design and incorporating them with programming. 
+
+# Documentation
+[Chamametchi.gif](https://vignette.wikia.nocookie.net/tamagotchi/images/4/4e/Chamametchi_spinning.gif/revision/latest?cb=20150331135740)
+[Mimitchi.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjm4C3EArNYrh0Y4is-XzMBarAnqjyUeXPejjOgHwnzCNy0I)
+[Pink Background](https://cdn3.volusion.com/tyzky.ynqff/v/vspfiles/photos/175-2.jpg)
